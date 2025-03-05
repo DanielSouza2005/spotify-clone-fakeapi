@@ -9,6 +9,44 @@
     { "id": 7, "name": "Linkin Park", "genre": "Nu Metal", "urlImg": "https://i.scdn.co/image/ab67616100005174c7e6bd9e65eab62a53355576" },
     { "id": 8, "name": "The Plot In You", "genre": "Metalcore", "urlImg": "https://i.scdn.co/image/ab67616100005174e37f236d6cb6e194c88660ab" },
     { "id": 9, "name": "Motionless in White", "genre": "Industrial Metalcore", "urlImg": "https://i.scdn.co/image/ab6761610000517458f2b24b02877506d74b612b" },
-	{ "id": 10, "name": "Sleep Token", "genre": "Alternative Metal", "urlImg": "https://i.scdn.co/image/ab67616100005174dbc568c9d871256b9a3e34a1" }
+    { "id": 10, "name": "Sleep Token", "genre": "Alternative Metal", "urlImg": "https://i.scdn.co/image/ab67616100005174dbc568c9d871256b9a3e34a1" }
+  ],
+  "playlists": [
+	  {
+        id: "1",
+        name: "This is Bring me the Horizon",
+        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0VDZny-default.jpg",
+        alt: "This is Bring me the Horizon"
+    },
+    {
+        id: "2",
+        name: "This is Linkin Park",
+        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO47cwRq-default.jpg",
+        alt: "This is Linkin Park"
+    },
+    {
+        id: "3",
+        name: "Metalcore Mix",
+        urlImg: "https://seed-mix-image.spotifycdn.com/v6/img/desc/Metalcore/en/default",
+        alt: "Metalcore Mix"
+    },
+    {
+        id: "4",
+        name: "This is Spiritbox",
+        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2NYvaE-default.jpg",
+        alt: "This is Spiritbox"
+    },
+    {
+        id: "5",
+        name: "This is Sleep Token",
+        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1m0d2h-default.jpg",
+        alt: "This is Sleep Token"
+    },
+    {
+        id: "6",
+        name: "Best Metalcore Songs of All Time",
+        urlImg: "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ce4c0f00c960edc9e87b390a0",
+        alt: "Best Metalcore Songs of All Time"
+    }    
   ]
 }
