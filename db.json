@@ -1,52 +1,102 @@
 {
-  "artists": [
-    { "id": 1, "name": "Bring Me the Horizon", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174e7c9399d0b5d813c20cbec65" },
-    { "id": 2, "name": "Architects", "genre": "Metalcore", "urlImg": "https://i.scdn.co/image/ab676161000051744e7b995ea7cf092e6372c6d2" },
-    { "id": 3, "name": "Sleeping With Sirens", "genre": "Post-Hardcore", "urlImg": "https://i.scdn.co/image/ab676161000051747fbe33148fe1ae267ddb2956" },
-    { "id": 4, "name": "Pierce the Veil", "genre": "Post-Hardcore", "urlImg": "https://i.scdn.co/image/ab676161000051746f8f8d13be17bf486219edc7" },
-    { "id": 5, "name": "Spiritbox", "genre": "Progressive Metalcore", "urlImg": "https://i.scdn.co/image/ab67616100005174501369c8b24b71bb2dcca603" },
-    { "id": 6, "name": "Bad Omens", "genre": "Metalcore", "urlImg": "https://i.scdn.co/image/ab676161000051743a62c74a31a446406a033926" },
-    { "id": 7, "name": "Linkin Park", "genre": "Nu Metal", "urlImg": "https://i.scdn.co/image/ab67616100005174c7e6bd9e65eab62a53355576" },
-    { "id": 8, "name": "The Plot In You", "genre": "Metalcore", "urlImg": "https://i.scdn.co/image/ab67616100005174e37f236d6cb6e194c88660ab" },
-    { "id": 9, "name": "Motionless in White", "genre": "Industrial Metalcore", "urlImg": "https://i.scdn.co/image/ab6761610000517458f2b24b02877506d74b612b" },
-    { "id": 10, "name": "Sleep Token", "genre": "Alternative Metal", "urlImg": "https://i.scdn.co/image/ab67616100005174dbc568c9d871256b9a3e34a1" }
-  ],
-  "playlists": [
-	  {
-        id: "1",
-        name: "This is Bring me the Horizon",
-        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0VDZny-default.jpg",
-        alt: "This is Bring me the Horizon"
-    },
-    {
-        id: "2",
-        name: "This is Linkin Park",
-        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO47cwRq-default.jpg",
-        alt: "This is Linkin Park"
-    },
-    {
-        id: "3",
-        name: "Metalcore Mix",
-        urlImg: "https://seed-mix-image.spotifycdn.com/v6/img/desc/Metalcore/en/default",
-        alt: "Metalcore Mix"
-    },
-    {
-        id: "4",
-        name: "This is Spiritbox",
-        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2NYvaE-default.jpg",
-        alt: "This is Spiritbox"
-    },
-    {
-        id: "5",
-        name: "This is Sleep Token",
-        urlImg: "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1m0d2h-default.jpg",
-        alt: "This is Sleep Token"
-    },
-    {
-        id: "6",
-        name: "Best Metalcore Songs of All Time",
-        urlImg: "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ce4c0f00c960edc9e87b390a0",
-        alt: "Best Metalcore Songs of All Time"
-    }    
-  ]
+   "artists":[
+      {
+         "id":1,
+         "name":"Bring Me the Horizon",
+         "genre":"Rock",
+         "urlImg":"https://i.scdn.co/image/ab67616100005174e7c9399d0b5d813c20cbec65"
+      },
+      {
+         "id":2,
+         "name":"Architects",
+         "genre":"Metalcore",
+         "urlImg":"https://i.scdn.co/image/ab676161000051744e7b995ea7cf092e6372c6d2"
+      },
+      {
+         "id":3,
+         "name":"Sleeping With Sirens",
+         "genre":"Post-Hardcore",
+         "urlImg":"https://i.scdn.co/image/ab676161000051747fbe33148fe1ae267ddb2956"
+      },
+      {
+         "id":4,
+         "name":"Pierce the Veil",
+         "genre":"Post-Hardcore",
+         "urlImg":"https://i.scdn.co/image/ab676161000051746f8f8d13be17bf486219edc7"
+      },
+      {
+         "id":5,
+         "name":"Spiritbox",
+         "genre":"Progressive Metalcore",
+         "urlImg":"https://i.scdn.co/image/ab67616100005174501369c8b24b71bb2dcca603"
+      },
+      {
+         "id":6,
+         "name":"Bad Omens",
+         "genre":"Metalcore",
+         "urlImg":"https://i.scdn.co/image/ab676161000051743a62c74a31a446406a033926"
+      },
+      {
+         "id":7,
+         "name":"Linkin Park",
+         "genre":"Nu Metal",
+         "urlImg":"https://i.scdn.co/image/ab67616100005174c7e6bd9e65eab62a53355576"
+      },
+      {
+         "id":8,
+         "name":"The Plot In You",
+         "genre":"Metalcore",
+         "urlImg":"https://i.scdn.co/image/ab67616100005174e37f236d6cb6e194c88660ab"
+      },
+      {
+         "id":9,
+         "name":"Motionless in White",
+         "genre":"Industrial Metalcore",
+         "urlImg":"https://i.scdn.co/image/ab6761610000517458f2b24b02877506d74b612b"
+      },
+      {
+         "id":10,
+         "name":"Sleep Token",
+         "genre":"Alternative Metal",
+         "urlImg":"https://i.scdn.co/image/ab67616100005174dbc568c9d871256b9a3e34a1"
+      }
+   ],
+   "playlists":[
+      {
+         "id":"1",
+         "name":"This is Bring me the Horizon",
+         "urlImg":"https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0VDZny-default.jpg",
+         "alt":"This is Bring me the Horizon"
+      },
+      {
+         "id":"2",
+         "name":"This is Linkin Park",
+         "urlImg":"https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO47cwRq-default.jpg",
+         "alt":"This is Linkin Park"
+      },
+      {
+         "id":"3",
+         "name":"Metalcore Mix",
+         "urlImg":"https://seed-mix-image.spotifycdn.com/v6/img/desc/Metalcore/en/default",
+         "alt":"Metalcore Mix"
+      },
+      {
+         "id":"4",
+         "name":"This is Spiritbox",
+         "urlImg":"https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2NYvaE-default.jpg",
+         "alt":"This is Spiritbox"
+      },
+      {
+         "id":"5",
+         "name":"This is Sleep Token",
+         "urlImg":"https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1m0d2h-default.jpg",
+         "alt":"This is Sleep Token"
+      },
+      {
+         "id":"6",
+         "name":"Best Metalcore Songs of All Time",
+         "urlImg":"https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ce4c0f00c960edc9e87b390a0",
+         "alt":"Best Metalcore Songs of All Time"
+      }
+   ]
 }
